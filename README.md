@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <div class="card">
-  <img src="Photo_Zintle.jpg" alt="Zintle" style="width:100%">
+  <img src="Photo_Zintle.jpg" alt="Zintle" style="width:50%">
   <h1>Zintle Lutseke</h1>
   <p class="title">Graduate Trainee</p>
   <p>Britehouse</p>
