@@ -2,7 +2,7 @@
 
 <div class="card">
   <img src="Photo_Zintle.jpg" style="width:40%">
-  <h1>Zintle Lutseke</h1>
+  <h1><b><center>Zintle Lutseke</center></b></h1>
   <p class="title">Graduate Trainee</p>
   <p>Britehouse</p>
   <a href="#"><i class="fa fa-twitter"></i></a>
