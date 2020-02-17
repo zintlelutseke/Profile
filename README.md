@@ -48,15 +48,13 @@ body, html {
 
 <div class="hero-image">
   <div class="hero-text">
-    <h1 style="font-size:50px">I am John Doe</h1>
-    <p>And I'm a Photographer</p>
-    <button>Hire me</button>
+    <h1 style="font-size:50px">I am Zintle Lutseke</h1>
+    <p>And I'm Graduate Trainee</p>
+    <button>View Me</button>
   </div>
 </div>
 
-<p>Page Content..</p>
+
 
 </body>
 </html>
-
-
