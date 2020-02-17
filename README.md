@@ -6,6 +6,7 @@
   <p class="title">Graduate Trainee</p>
   <p>Britehouse</p>
   <a href="#"><i class="fa fa-twitter"></i></a>
+  <a href="https://www.facebook.com/ntlentle-lutseke/">Facebook Profile</a>
   <a href="#"><i class="fa fa-linkedin"></i></a>
   <a href="#"><i class="fa fa-facebook"></i></a>
   <p><button>Contact</button></p>
