@@ -14,6 +14,10 @@
   <br>
   <a href="#"><i class="fa fa-linkedin"></i></a>
   </br>
+  <br>
   <a href="#"><i class="fa fa-facebook"></i></a>
+  </br>
+  <a href="https://zintlelutseke.github.io/Profile/">Github account</a>
+  
   <p><button>Contact</button></p>
 </div>
